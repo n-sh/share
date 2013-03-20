@@ -1,0 +1,138 @@
+body
+{
+    width:800px;
+    margin: 0 auto;
+    padding: 10px;
+   
+}
+
+pre {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+#footer
+{
+    
+    
+}
+.error{
+   color:red;
+}
+
+label
+{
+    display:block;
+    font-size:20px;
+}
+
+input[type=text]
+{
+    width:400px;
+    font-size:20px;
+    padding:2px;
+}
+
+textarea
+{
+    width:90%;
+	height:500px;
+    font-size:17px;
+    font-family:Monospace;
+}
+
+input[type=submit]
+{
+    font-size:24px;
+}
+.msg
+{
+    border: 1px solid #000;
+}
+
+.msg-user
+{
+   font-weight:bold;
+   font-size:20px;
+   display:inline-block;
+}
+.msg-created
+{
+    top:-100%;
+    float:right;
+    font-size:10px;
+}
+    
+.msg-body
+{
+    margin: 0;
+    font-size:17px;
+    padding: 5px;
+}
+
+.post-heading {
+    position: relative;
+    border-bottom: 3px solid #666;
+}
+
+.post-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+}
+
+.post-title:visisted {
+    color: #333;
+}
+
+.post-created {
+    color: #999;
+    float:right;
+    margin-top: -20px;
+}
+
+.post-body {
+    margin-top: 5px;
+}
+
+.menu
+{
+    text-align:center;
+}
+
+.menu ul li
+{
+    display:inline-table;
+}
+.menu li > a
+{
+    background-color:#c4c4a4;
+    padding:10px;
+    border: 1px solid #aaa;
+}
+
+.menu li > a:hover
+{
+    background-color:#ddd;
+}
+
+#img
+{
+    position:absolute;
+    bottom:0px;
+    right:0px;
+}
+
+.login{
+  position:absolute;
+  right:30px;
+}
+
+
+
+
+
