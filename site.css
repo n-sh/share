@@ -2,3 +2,8 @@ body
 {
     text-color: #333;
 }
+
+div{
+    border: 1px solid #aaa;
+    
+}
