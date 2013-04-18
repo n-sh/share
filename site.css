@@ -42,3 +42,11 @@ body {
             display:block;
             margin-top:30px;
         }
+h1, h2, h3, h4, h5, h6 {
+ margin: 10.5px 0;
+ font-family: inherit;
+ font-weight: bold;
+ line-height: 21px;
+ color: inherit;
+ text-rendering: optimizelegibility;
+}
