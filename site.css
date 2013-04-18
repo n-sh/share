@@ -1,14 +1,14 @@
 body {
-           color: #9B859D;
+           color: #c8c8c8;
            background-color: #222;
            width:1000px;
         }
-        .blog {
+.blog {
             -moz-box-shadow: 3px 3px 20px #555;
             -webkit-box-shadow: 3px 3px 20px #555;
             box-shadow: 3px 3px 20px #555;
             width:800px;
-        }
+}
         .post-title {
             margin: 2px;
             margin-left: 10px;
